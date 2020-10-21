@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68155f6454e8b87db11052044d5489bd",
+    "revision": "970d214ae1f6e108c0b34b611ccce8c3",
     "url": "/glasswall-desktop/index.html"
   },
   {
-    "revision": "d16e865969e5b3361329",
+    "revision": "5c4362a1db5e08183776",
     "url": "/glasswall-desktop/static/css/main.e9c05e4b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/glasswall-desktop/static/js/2.c09c94ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d16e865969e5b3361329",
-    "url": "/glasswall-desktop/static/js/main.de28719e.chunk.js"
+    "revision": "5c4362a1db5e08183776",
+    "url": "/glasswall-desktop/static/js/main.3c26cc00.chunk.js"
   },
   {
     "revision": "556d96edf67c6ed0dd5f",

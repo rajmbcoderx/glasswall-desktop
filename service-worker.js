@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/glasswall-desktop/precache-manifest.df44a6ac792df6fdce279a5635733478.js"
+  "/glasswall-desktop/precache-manifest.59dd6e72037fef8c3c18b7c2fcc79374.js"
 );
 
 self.addEventListener('message', (event) => {
